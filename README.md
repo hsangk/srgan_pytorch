@@ -1,5 +1,5 @@
 
-**This repository has gone stale as I unfortunately do not have the time to maintain it anymore. If you would like to continue the development of it as a collaborator send me an email at eriklindernoren@gmail.com.**
+**https://github.com/eriklindernoren/PyTorch-GAN.git 참고하여 lr : 512x512 -> hr : 2048x2048 복원  **
 
 
 
