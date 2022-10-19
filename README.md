@@ -1,5 +1,6 @@
 
-**https://github.com/eriklindernoren/PyTorch-GAN.git 참고하여 lr : 512x512 -> hr : 2048x2048 복원  **
+https://github.com/eriklindernoren/PyTorch-GAN.git 참고하여 lr : 512x512 -> hr : 2048x2048 복원  
+
 
 
 
