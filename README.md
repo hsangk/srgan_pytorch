@@ -9,8 +9,7 @@ https://github.com/eriklindernoren/PyTorch-GAN.git 참고하여 lr : 512x512 -> 
 
 ## Test
 ![image](https://user-images.githubusercontent.com/102145595/197937102-9ede5693-8f92-4cf2-bd34-4b0a83c680bc.png)
-
-
+train data가 많이 필요한 GAN model 특성상 1000개의 데이터로 train시켜 성능이 잘 나오지 않은 것 같다.
 
 
 ## Super-Resolution GAN
